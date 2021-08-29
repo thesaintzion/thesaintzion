@@ -5,4 +5,5 @@ I'm a teachable person, fast learner and always committed.
 
 ### Find me around the web
 
-LinkedIn <a href="https://www.linkedin.com/in/st-stephen">St. Stephen</a>
+LinkedIn: <a href="https://www.linkedin.com/in/st-stephen">St. Stephen</a>
+
