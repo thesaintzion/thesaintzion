@@ -1,4 +1,9 @@
 # Hi, I'm St. Stephen 👋
 
-Let's connect on LinkedIn: <a href="https://www.linkedin.com/in/st-stephen">St. Stephen</a>
+A full-stack passionate developer
+
+<p>
+<a href="https://www.linkedin.com/in/st-stephen"><img height="26" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+</p
+
 
