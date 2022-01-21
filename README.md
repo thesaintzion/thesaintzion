@@ -1,4 +1,4 @@
-# Hi, I'm St. Stephen 👋
+# Hi dear, I'm St. Stephen 👋
 
 A full-stack passionate Software Engineer.
 
